@@ -145,7 +145,7 @@ Running the Model
 4. Evaluate performance against the target accuracy
 5. Visualize results with the provided plotting code
 
-Code Structure
+Code Structure<br>
 ├── Data Loading & Exploration<br>
 ├── Preprocessing Pipeline<br>
 │   ├── Categorical Encoding<br>
