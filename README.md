@@ -11,8 +11,8 @@ This project analyzes online shopping behavior data to predict purchase likeliho
 * Renz Supnet
 * Pratishtha Theeng
 
-##  Data Source
-[Data Source](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
+##  Citations
+[Data Source](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset) Sakar, C. & Kastro, Y. (2018). Online Shoppers Purchasing Intention Dataset [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5F88Q.
 
 🎯 Objective
 
