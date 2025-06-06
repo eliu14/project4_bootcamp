@@ -146,19 +146,20 @@ Running the Model
 5. Visualize results with the provided plotting code
 
 Code Structure
-├── Data Loading & Exploration
-├── Preprocessing Pipeline
-│   ├── Categorical Encoding
-│   ├── Data Type Conversion
-│   └── Feature Scaling
-├── Model Training
-│   ├── Train/Test Split
-│   ├── Random Forest Configuration
-│   └── Model Fitting
-└── Evaluation & Visualization
-    ├── Accuracy Calculation
-    ├── Classification Report
-    └── Performance Visualization
+"\n"├── Data Loading & Exploration
+"\n"├── Preprocessing Pipeline
+"\n"│   ├── Categorical Encoding
+"\n"│   ├── Data Type Conversion
+"\n"│   └── Feature Scaling
+"\n"├── Model Training
+"\n"│   ├── Train/Test Split
+"\n"│   ├── Random Forest Configuration
+"\n"│   └── Model Fitting
+"\n"└── Evaluation & Visualization
+    "\n"├── Accuracy Calculation
+    "\n"├── Classification Report
+    "\n"└── Performance Visualization
+
 📊 Expected Outcomes
 
 Model Performance
