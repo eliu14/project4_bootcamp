@@ -1,7 +1,7 @@
 Online Shoppers Purchase Prediction
 A machine learning project that predicts whether online shoppers will complete a purchase based on their browsing behavior and session characteristics.
 
-📊 Project Overview
+Project Overview
 This project analyzes online shopping behavior data to predict purchase likelihood using a Random Forest classifier. The model processes various features including page views, session duration, bounce rates, and visitor characteristics to determine if a shopping session will result in revenue generation.
 
 ## Members
@@ -59,7 +59,7 @@ rockwall = peoplewatcher.copy()
 * StandardScaler: Normalize features to have mean=0 and std=1
 * Train/Test Split: 80/20 split with stratification to maintain class balance
 
-🤖 Model Implementation
+Model Implementation
 Why Random Forest Was Chosen
 After testing multiple algorithms including K-Nearest Neighbors (KNN) and TensorFlow Keras neural networks, Random Forest emerged as the clear winner for this project due to several key advantages:
 
@@ -75,7 +75,7 @@ After testing multiple algorithms including K-Nearest Neighbors (KNN) and Tensor
 * Mixed data types: Naturally processes both categorical and numerical features without complex encoding requirements
 * No assumptions: Doesn't require assumptions about data distribution (unlike KNN's distance-based approach)
 
-📊 Practical Advantages Over Alternatives
+Practical Advantages Over Alternatives
 vs. K-Nearest Neighbors (KNN):
 
 * Scalability: Better performance with larger datasets
@@ -127,7 +127,7 @@ Visualization
 * Color-coded results (green for success, orange for improvement needed)
 * Detailed performance statistics display
 
-🚀 Usage Instructions
+Usage Instructions
 Prerequisites
 pythonimport pandas as pd
 import numpy as np
@@ -160,7 +160,7 @@ Code Structure<br>
     ├── Classification Report<br>
    └── Performance Visualization<br>
 
-📊 Expected Outcomes
+Expected Outcomes
 
 Model Performance
 
