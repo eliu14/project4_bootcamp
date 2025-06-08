@@ -1,0 +1,33 @@
+🏷️ Slide 1: “Online Shoppers’ Purchase Intention Dataset” (with Team Introduction)
+"Hi everyone, and thank you for being here.
+
+My name is Sarah Burnap, and I’m joined by my teammates Pratishtha Theeng, Ellen Liu, Renz Carl Supnet, and Jordan Dreyer
+. Together, we tackled a project that looks at something deceptively simple: what makes someone hit 'Buy Now'?
+
+Our focus was an e-commerce dataset that tracks more than just page views—it tells a story. A visitor’s path through the site, what they clicked, how long they lingered, and whether they made it to checkout—or vanished without a trace.
+
+It’s a digital footprint, and buried in that trail are clues about purchase intent. So we asked ourselves: can we build a model that doesn’t just analyze behavior, but anticipates it?"
+
+🎯 Slide 2: “Goal of This Project”
+"The main goal here? Understand what factors drive someone to actually hit 'Buy.'
+But we’re not stopping at insight—we’re also building something functional: a model that can predict whether someone’s just wandering around the store or about to head to the register.
+
+So we start by getting our data house in order—cleaning it up, organizing it, and shaping it into something that a model can actually work with.
+
+From there, it’s all about strategy: testing different machine learning approaches, refining our predictions, and pulling out the features that matter most.
+
+Because when you’re working with behavior data, it’s not enough to know what happened—you want to know what’s likely to happen next."
+
+🎤 Slide 14: “Conclusion”
+"So, to wrap it all up—yes, the way someone interacts with a website really does give away more than we think. Page values, time spent, product visits—they’re all digital tells that help us understand how likely someone is to make a purchase.
+
+And with a well-tuned model, we can actually predict those decisions with a high level of accuracy and reliability. The goal wasn’t just to build something accurate—it was to build something trustworthy, something that reflects real-world behavior instead of overfitting to noise.
+
+Looking ahead, there's so much potential here. This kind of analysis could help businesses tailor their strategies, or even sync up with behavioral insights to gently nudge browsers toward that final click.
+
+🎤 Slide 15: “Thank You / Questions”
+"Thank you all so much for listening—and for taking the time to walk through this project with us.
+
+We learned a lot through the process, and we’re proud of the model we built—not just for what it predicts, but for how it interprets human behavior in a digital space.
+
+We’d love to hear your thoughts or answer any questions you might have—so the floor is open."
